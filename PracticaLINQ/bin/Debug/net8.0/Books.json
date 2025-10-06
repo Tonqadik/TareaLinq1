@@ -1,0 +1,76 @@
+[
+
+  {
+    "Titulo": "Eloquent JavaScript, Third Edition",
+    "NPaginas": 472,
+    "FechaPublicacion": "2018-12-04",
+    "Autor": [
+      "Marijn Haverbeke"
+    ],
+    "Status": "Prestado",
+    "publisher": "No Starch Press",
+    "Descripcion": "JavaScript lies at the heart of almost every modern web application, from social apps like Twitter to browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications.",
+    "Categorias": [
+      "Programacion"
+    ]
+  },
+  {
+    "Titulo": "Practical Modern JavaScript",
+    "Autor": [
+      "Nicolás Bevacqua"
+    ],
+    "Status": "En bodega",
+    "FechaPublicacion": "2017-07-16",
+    "Publisher": "O'Reilly Media",
+    "NPaginas": 334,
+    "Descripcion": "To get the most out of modern JavaScript, you need learn the latest features of its parent specification, ECMAScript 6 (ES6). This book provides a highly practical look at ES6, without getting lost in the specification or its implementation details.",
+    "Categorias": [
+      "Programacion"
+    ]
+  },
+  {
+    "Titulo": "You Don't Know JS Yet",
+    "Autor": [
+      "Kyle Simpson"
+    ],
+    "Status": "Prestado",
+    "FechaPublicacion": "2020-01-28",
+    "Publisher": "Independently published",
+    "NPaginas": 143,
+    "Descripcion": "This book dives deep into the core mechanisms of the JavaScript language, helping developers understand how JS works under the hood.",
+    "Categorias": [
+      "Programacion"
+    ]
+  },
+  {
+    "Titulo": "JavaScript: The Good Parts",
+    "Autor": [
+      "Douglas Crockford"
+    ],
+    "Status": "Disponible",
+    "FechaPublicacion": "2008-05-15",
+    "Publisher": "O'Reilly Media",
+    "NPaginas": 176,
+    "Descripcion": "An in-depth look at the elegant parts of JavaScript, helping developers avoid the bad and focus on the good.",
+    "Categorias": [
+      "Programacion"
+    ]
+  },
+  {
+    "Titulo": "Learning JavaScript Design Patterns",
+    "Autor": [
+      "Addy Osmani"
+    ],
+    "Status": "Prestado",
+    "FechaPublicacion": "2012-07-01",
+    "Publisher": "O'Reilly Media",
+    "NPaginas": 254,
+    "Categorias": [
+      "Programacion"
+    ]
+  }
+]
+
+
+
+
