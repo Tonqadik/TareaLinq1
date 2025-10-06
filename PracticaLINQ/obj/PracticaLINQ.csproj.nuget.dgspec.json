@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\c#proyectos\\PracticaLINQ\\PracticaLINQ.csproj": {}
+    "C:\\c#proyectos\\TareaLinq1\\PracticaLINQ\\PracticaLINQ.csproj": {}
   },
   "projects": {
-    "C:\\c#proyectos\\PracticaLINQ\\PracticaLINQ.csproj": {
+    "C:\\c#proyectos\\TareaLinq1\\PracticaLINQ\\PracticaLINQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\c#proyectos\\PracticaLINQ\\PracticaLINQ.csproj",
+        "projectUniqueName": "C:\\c#proyectos\\TareaLinq1\\PracticaLINQ\\PracticaLINQ.csproj",
         "projectName": "PracticaLINQ",
-        "projectPath": "C:\\c#proyectos\\PracticaLINQ\\PracticaLINQ.csproj",
+        "projectPath": "C:\\c#proyectos\\TareaLinq1\\PracticaLINQ\\PracticaLINQ.csproj",
         "packagesPath": "C:\\Users\\juan\\.nuget\\packages\\",
-        "outputPath": "C:\\c#proyectos\\PracticaLINQ\\obj\\",
+        "outputPath": "C:\\c#proyectos\\TareaLinq1\\PracticaLINQ\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

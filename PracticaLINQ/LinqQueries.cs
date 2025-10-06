@@ -78,6 +78,7 @@ public class LinqQueries
            .Skip(1);
     }
 
+    // LINQ para selector dinámico
     public IEnumerable<dynamic> GetCustomBooks(
         Func<Book, dynamic> select,
         Func<Book, bool> where,

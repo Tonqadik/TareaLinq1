@@ -1,76 +1,92 @@
 [
-
   {
-    "Titulo": "Eloquent JavaScript, Third Edition",
+    "Titulo": "Mastering C# for Enterprise Applications",
     "NPaginas": 472,
     "FechaPublicacion": "2018-12-04",
-    "Autor": [
-      "Marijn Haverbeke"
-    ],
+    "Autor": [ "Sarah Drasner" ],
     "Status": "Prestado",
-    "publisher": "No Starch Press",
-    "Descripcion": "JavaScript lies at the heart of almost every modern web application, from social apps like Twitter to browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications.",
-    "Categorias": [
-      "Programacion"
-    ]
+    "Publisher": "Packt Publishing",
+    "Categorias": [ "Programacion", "C#" ]
   },
   {
-    "Titulo": "Practical Modern JavaScript",
-    "Autor": [
-      "Nicolás Bevacqua"
-    ],
+    "Titulo": "Modern Python Development",
+    "Autor": [ "Dan Abramov" ],
     "Status": "En bodega",
     "FechaPublicacion": "2017-07-16",
-    "Publisher": "O'Reilly Media",
+    "Publisher": "Manning Publications",
     "NPaginas": 334,
-    "Descripcion": "To get the most out of modern JavaScript, you need learn the latest features of its parent specification, ECMAScript 6 (ES6). This book provides a highly practical look at ES6, without getting lost in the specification or its implementation details.",
-    "Categorias": [
-      "Programacion"
-    ]
+    "Categorias": [ "Programacion", "Python" ]
   },
   {
-    "Titulo": "You Don't Know JS Yet",
-    "Autor": [
-      "Kyle Simpson"
-    ],
+    "Titulo": "You Don't Know Java Yet",
+    "Autor": [ "Jenn Schiffer" ],
     "Status": "Prestado",
     "FechaPublicacion": "2020-01-28",
-    "Publisher": "Independently published",
+    "Publisher": "Apress",
     "NPaginas": 143,
-    "Descripcion": "This book dives deep into the core mechanisms of the JavaScript language, helping developers understand how JS works under the hood.",
-    "Categorias": [
-      "Programacion"
-    ]
+    "Categorias": [ "Programacion", "Java" ]
   },
   {
-    "Titulo": "JavaScript: The Good Parts",
-    "Autor": [
-      "Douglas Crockford"
-    ],
+    "Titulo": "C++: The Good Parts",
+    "Autor": [ "Kent C. Dodds" ],
     "Status": "Disponible",
     "FechaPublicacion": "2008-05-15",
-    "Publisher": "O'Reilly Media",
+    "Publisher": "No Starch Press",
     "NPaginas": 176,
-    "Descripcion": "An in-depth look at the elegant parts of JavaScript, helping developers avoid the bad and focus on the good.",
-    "Categorias": [
-      "Programacion"
-    ]
+    "Categorias": [ "Programacion", "C++" ]
   },
   {
-    "Titulo": "Learning JavaScript Design Patterns",
-    "Autor": [
-      "Addy Osmani"
-    ],
+    "Titulo": "Learning Rust Design Patterns",
+    "Autor": [ "Rachel Andrew" ],
     "Status": "Prestado",
     "FechaPublicacion": "2012-07-01",
+    "Publisher": "SitePoint",
+    "NPaginas": 254,
+    "Categorias": [ "Programacion", "Rust" ]
+  },
+  {
+    "Titulo": "Go and Web Development Essentials",
+    "Autor": [ "Jon Duckett" ],
+    "Status": "Disponible",
+    "FechaPublicacion": "2014-06-30",
+    "Publisher": "Wiley",
+    "NPaginas": 640,
+    "Categorias": [ "Programacion", "Go" ]
+  },
+  {
+    "Titulo": "Secrets of the Kotlin Ninja",
+    "Autor": [ "John Resig" ],
+    "Status": "Prestado",
+    "FechaPublicacion": "2016-03-10",
+    "Publisher": "Manning Publications",
+    "NPaginas": 352,
+    "Categorias": [ "Programacion", "Kotlin" ]
+  },
+  {
+    "Titulo": "Programming Swift Applications",
+    "Autor": [ "Eric Elliott" ],
+    "Status": "En bodega",
+    "FechaPublicacion": "2014-07-01",
     "Publisher": "O'Reilly Media",
     "NPaginas": 254,
-    "Categorias": [
-      "Programacion"
-    ]
+    "Categorias": [ "Programacion", "Swift" ]
+  },
+  {
+    "Titulo": "The Definitive Guide to TypeScript",
+    "Autor": [ "David Flanagan" ],
+    "Status": "Disponible",
+    "FechaPublicacion": "2020-05-14",
+    "Publisher": "O'Reilly Media",
+    "NPaginas": 706,
+    "Categorias": [ "Programacion", "TypeScript" ]
+  },
+  {
+    "Titulo": "Effective Ruby",
+    "Autor": [ "David Herman" ],
+    "Status": "Prestado",
+    "FechaPublicacion": "2012-12-27",
+    "Publisher": "Addison-Wesley",
+    "NPaginas": 240,
+    "Categorias": [ "Programacion", "Ruby" ]
   }
 ]
-
-
-
-

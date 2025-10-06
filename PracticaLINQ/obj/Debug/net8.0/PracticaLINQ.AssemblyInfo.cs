@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PracticaLINQ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e6154ea193f205970741c9cdde2cd73b95f7198")]
 [assembly: System.Reflection.AssemblyProductAttribute("PracticaLINQ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PracticaLINQ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,36 +1,6 @@
 ﻿// LINQ declaración de variables
 using System;
 
-var ListaNombres = new String[] {"Juan", "Carlos", "Torres", "James", "John" };
-
-// Declarativa
-// Imprime el nombre de torres
-var item = ListaNombres.FirstOrDefault(p => p == "Torres");
-Console.WriteLine("---Imprime los nombres que empiezan con J---");
-Console.WriteLine(item);
-
-// Imperativa
-// Solo obtiene los nombres que empeizan con J
-Console.WriteLine("---Imprime los nombres que empiezan con J---");
-var nombres = ListaNombres.Where(a => a.StartsWith("J"));
-foreach (var nomb in nombres)
-{
-    Console.WriteLine(nomb);
-}
-
-// Declaraciones where 
-var ListaNumeros = new String[]{"Uno", "Dos", "Tres", "Cuatro", "Cinco", "Seis", "Siete", "Ocho", "Nueve", "Diez" };
-
-// Encuentra aquellos cadenas que solo tengan res letras
-var listaNumerosFiltrada = ListaNumeros.Where(ListaNumeros => ListaNumeros.Length == 4).ToList();
-
-// Imprime los numeros que solo tengan 4 letras
-Console.WriteLine("---Imprime los números con 4 letras---");
-listaNumerosFiltrada.ForEach(num => Console.WriteLine(num));
-
-
-Console.WriteLine();
-
 // LINQ clases
 LinqQueries queries = new LinqQueries();
 Console.WriteLine("--- Impresión de todos los libros ---");
