@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\c#proyectos\\TareaLinq1\\PracticaLINQ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6068FC6-2A83-48F8-BA1D-765DB58D4D7C}|PracticaLINQ.csproj|c:\\c#proyectos\\tarealinq1\\practicalinq\\linqqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6068FC6-2A83-48F8-BA1D-765DB58D4D7C}|PracticaLINQ.csproj|solutionrelative:linqqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A6068FC6-2A83-48F8-BA1D-765DB58D4D7C}|PracticaLINQ.csproj|c:\\c#proyectos\\tarealinq1\\practicalinq\\linqb\u00E1sico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6068FC6-2A83-48F8-BA1D-765DB58D4D7C}|PracticaLINQ.csproj|solutionrelative:linqb\u00E1sico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6068FC6-2A83-48F8-BA1D-765DB58D4D7C}|PracticaLINQ.csproj|c:\\c#proyectos\\tarealinq1\\practicalinq\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6068FC6-2A83-48F8-BA1D-765DB58D4D7C}|PracticaLINQ.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,37 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LinqQueries.cs",
-              "DocumentMoniker": "C:\\c#proyectos\\TareaLinq1\\PracticaLINQ\\LinqQueries.cs",
-              "RelativeDocumentMoniker": "LinqQueries.cs",
-              "ToolTip": "C:\\c#proyectos\\TareaLinq1\\PracticaLINQ\\LinqQueries.cs",
-              "RelativeToolTip": "LinqQueries.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAAFAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T15:22:33.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\c#proyectos\\TareaLinq1\\PracticaLINQ\\Book.cs",
-              "RelativeDocumentMoniker": "Book.cs",
-              "ToolTip": "C:\\c#proyectos\\TareaLinq1\\PracticaLINQ\\Book.cs",
-              "RelativeToolTip": "Book.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAACwAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T13:59:28.732Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "LinqB\u00E1sico.cs",
               "DocumentMoniker": "C:\\c#proyectos\\TareaLinq1\\PracticaLINQ\\LinqB\u00E1sico.cs",
               "RelativeDocumentMoniker": "LinqB\u00E1sico.cs",
               "ToolTip": "C:\\c#proyectos\\TareaLinq1\\PracticaLINQ\\LinqB\u00E1sico.cs",
               "RelativeToolTip": "LinqB\u00E1sico.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-06T12:45:07.879Z",
               "EditorCaption": ""
